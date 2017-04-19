@@ -2,10 +2,7 @@
 Downloads
 =========
 
-Resume
+:download:`Curriculum Vitae <_static/Brian_Moss_CV.pdf>`
 
-OpenShift Enterprise Administration Guide
-
-Didactic Techniques (excerpt from doctoral dissertation)
-
-All documents in ZIP format
+:download:`OpenShift Enterprise Administration Guide
+<_static/Administration_Guide.pdf>`

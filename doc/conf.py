@@ -31,11 +31,8 @@ extensions = [
 if spelling is not None:
     extensions.append('sphinxcontrib.spelling')
 
-# if sphinx-prompt is not None:
-# extensions.append('sphinx-prompt')
-
 # Add any paths that contain templates here, relative to this directory.
-# templates_path = ['_templates']
+templates_path = ['_static']
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -47,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Curriculum Vitae'
+project = """Brian Moss"""
 copyright = '2017, Brian Moss'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -55,7 +52,7 @@ copyright = '2017, Brian Moss'
 # built documents.
 #
 # The short X.Y version.
-# version = '1'
+version = 'kallimachos@gmail.com'
 # The full version, including alpha/beta/rc tags.
 # release = '1'
 
@@ -110,7 +107,9 @@ else:
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-# html_theme_options = {}
+html_theme_options = {
+    'navigation_depth': 1,
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 # html_theme_path = []

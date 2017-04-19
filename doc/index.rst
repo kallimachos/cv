@@ -1,18 +1,6 @@
-============
-Introduction
-============
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   education.rst
-   employment.rst
-   references.rst
-   portfolio.rst
-   community.rst
-   downloads.rst
-   contact.rst
+==========
+Brian Moss
+==========
 
 Most recently, I worked as an Information Architect at Rackspace on the
 `Rackspace Private Cloud <https://www.rackspace.com/en-au/cloud/private>`_
@@ -46,3 +34,15 @@ linux.conf.au 2017. More details of my community activities can be found on the
 Originally from Canada, I now live in Brisbane with my wife and two dogs. When
 I’m not writing, I spend my time cycling, reading, and playing board
 games.
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   education.rst
+   employment.rst
+   community.rst
+   portfolio.rst
+   references.rst
+   contact.rst
+   downloads.rst
