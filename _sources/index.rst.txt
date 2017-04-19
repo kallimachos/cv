@@ -28,8 +28,7 @@ OpenStack, Amazon EC2, Red Hat Enterprise Virtualization, and VMware vSphere.
 Learning about new technology and sharing that knowledge with others is the
 highlight of my job, and I love the camaraderie of the open source community. I
 run the Brisbane OpenStack meetup and organized a documentation miniconf at
-linux.conf.au 2017. More details of my community activities can be found on the
-:ref:`community` page.
+linux.conf.au 2017.
 
 Originally from Canada, I now live in Brisbane with my wife and two dogs. When
 I’m not writing, I spend my time cycling, reading, and playing board
