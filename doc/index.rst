@@ -9,22 +9,24 @@ Introduction
    education.rst
    employment.rst
    references.rst
-   samples.rst
+   portfolio.rst
    community.rst
    downloads.rst
    contact.rst
 
 Most recently, I worked as an Information Architect at Rackspace on the
-Rackspace Private Cloud (RPC) product. In addition to documentation duties I
-built our internal publishing solution and developed several enhancements for
-our tool chain.
+`Rackspace Private Cloud <https://www.rackspace.com/en-au/cloud/private>`_
+(RPC) product. In addition to documentation duties I built our internal
+publishing solution and developed several enhancements for our tool chain.
 
 RPC was the smaller part of my job, however, and most of my time was dedicated
-to upstream OpenStack development. In addition to being a core reviewer for the
-openstack-manuals project, I am also the documentation tools team lead, which
-means I spend as much time writing and reviewing code as I do technical
-content. Through OpenStack I have had the opportunity to develop a wide range
-of skills in Python, Sphinx, reStructuredText, jQuery, CSS, and HTML.
+to upstream `OpenStack <https://www.openstack.org/>`_ development. In addition
+to being a core reviewer for the `Documentation project
+<https://docs.openstack.org/>`_, I am also the documentation tools team lead,
+which means I spend as much time writing and reviewing code as I do technical
+content. I have twice served as a documentation release manager. Through
+OpenStack I have had the opportunity to develop a wide range of skills in
+Python, Sphinx, reStructuredText, jQuery, CSS, and HTML.
 
 Prior to Rackspace, I was a Technical Writer at Red Hat, where I started as
 part of a small team dedicated to their Platform-as-a-Service offering,
@@ -37,8 +39,8 @@ OpenStack, Amazon EC2, Red Hat Enterprise Virtualization, and VMware vSphere.
 
 Learning about new technology and sharing that knowledge with others is the
 highlight of my job, and I love the camaraderie of the open source community. I
-run the Brisbane OpenStack meetup and workshops on open source software for
-school-age girls. More details of my community activities can be found on the
+run the Brisbane OpenStack meetup and organized a documentation miniconf at
+linux.conf.au 2017. More details of my community activities can be found on the
 :ref:`community` page.
 
 Originally from Canada, I now live in Brisbane with my wife and two dogs. When

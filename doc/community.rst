@@ -14,17 +14,14 @@ shifted mainly to the IT world.
 
 **Contributions**
 
+-  Brisbane OpenStack meetup organizer
+-  Organized *Documentation Down Under* miniconf at linux.conf.au 2017
 -  Co-organized OpenStack Documentation Swarm
--  Submitted patches for upstream OpenStack documentation bugs
--  OpenStack Active Technical Contributor (ATC)
--  Bottle on OpenShift quick start contributor
+-  OpenStack core contributor
 -  Led several Open Source in the Cloud workshops for high school girls
--  Wrote open source Git Guide
--  Scripts and other code available on GitHub under GPLv3
+-  Scripts and other code available on GitHub under GPLv3 or Apache licenses
 -  Regular attendee at OpenShift Hack Nights; ran an OpenShift xPaaS (OpenShift
    + JBoss) workshop for the Red Hat open day
--  Attendee at several OpenStack meetups; gave a presentation on lessons
-   learned from the OpenStack docs swarm
--  Presented a “lunch and learn” session on lessons that technical writers can
-   learn from ancient poetry
-
+-  Presented on lessons learned from the OpenStack docs swarm
+-  Presented a brown-bag session on lessons that technical writers can learn
+   from ancient poetry

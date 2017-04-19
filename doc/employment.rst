@@ -5,9 +5,14 @@ Employment
 **20 Apr 2015 – ongoing: Information Architect** |br|
 Rackspace Inc
 
-   -  Information Architect for Rackspace Private Cloud
-   -  OpenStack documentation core contributor
-   -  OpenStack documentation tools team lead
+   -  Rackspace Private Cloud documentation suite content creation and
+      architecture
+   -  Built internal publishing solution and developed tool chain enhancements
+   -  OpenStack documentation core contributor, tools team lead, release
+      manager
+   -  Create and review upstream content, working regularly with developers in
+      other project teams to ensure accuracy of published material
+   -  Tools bug triage, Python, CSS, HTML, Sphinx development
 
 **30 Jan 2012 – 17 Apr 2015: Content Author II** |br|
 Red Hat Asia-Pacific Pty Ltd
