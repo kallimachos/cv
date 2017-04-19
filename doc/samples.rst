@@ -24,6 +24,6 @@ Review that prompted the publisher to contact me for further feedback. I have
 also guest blogged about Agile methodology for the Society of Technical
 Communication, Australia Chapter.
 
-To automate aspects of my workflow, I have written several scripts in Python
+To automate aspects of my work flow, I have written several scripts in Python
 and Bash. These useful bits of code, along with some less useful bits from my
 learning days, can be found in my GitHub repository.

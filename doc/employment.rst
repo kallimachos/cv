@@ -14,8 +14,8 @@ Red Hat Asia-Pacific Pty Ltd
       Hat OpenShift documentation team
    -  Worked closely with the cloud technology engineering teams to produce and
       maintain high-quality documentation for Red Hat cloud products
-   -  Mastered use of internal documentation toolchain, including Publican, Git
-      version control, PressGang CCMS, and DocBook XML
+   -  Mastered use of internal documentation tool chain, including Publican,
+      Git version control, PressGang CCMS, and DocBook XML
    -  Developed excellent knowledge of Red Hat Enterprise Linux, cloud
       computing solutions, and technical writing standards
    -  Won Society for Technical Communication Merit Award for OpenShift

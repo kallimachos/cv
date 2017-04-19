@@ -14,7 +14,7 @@ shifted mainly to the IT world.
 
 **Contributions**
 
--  Co-organised OpenStack Documentation Swarm
+-  Co-organized OpenStack Documentation Swarm
 -  Submitted patches for upstream OpenStack documentation bugs
 -  OpenStack Active Technical Contributor (ATC)
 -  Bottle on OpenShift quick start contributor
