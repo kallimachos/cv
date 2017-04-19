@@ -2,6 +2,5 @@
 Contact
 =======
 
-**Dr. Brian Moss**
-
-**E-mail:** kallimachos@gmail.com
+**Brian Moss** |br|
+kallimachos@gmail.com
