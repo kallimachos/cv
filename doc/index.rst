@@ -4,7 +4,7 @@ Brian Moss
 
 Most recently, I worked as an Information Architect at Rackspace on the
 `Rackspace Private Cloud <https://www.rackspace.com/en-au/cloud/private>`_
-(RPC) product. In addition to documentation duties I built our internal
+(RPC) product. In addition to documentation duties, I built our internal
 publishing solution and developed several enhancements for our tool chain.
 
 RPC was the smaller part of my job, however, and most of my time was dedicated
@@ -16,7 +16,7 @@ content. I have twice served as a documentation release manager. Through
 OpenStack I have had the opportunity to develop a wide range of skills in
 Python, Sphinx, reStructuredText, jQuery, CSS, and HTML.
 
-Prior to Rackspace, I was a Technical Writer at Red Hat, where I started as
+Prior to Rackspace, I was a Technical Writer at Red Hat where I started as
 part of a small team dedicated to their Platform-as-a-Service offering,
 `OpenShift <https://www.openshift.com/>`_. After documenting this software from
 its beta beginnings until it was a commercial product, I took the opportunity
