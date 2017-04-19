@@ -14,8 +14,6 @@ Introduction
    downloads.rst
    contact.rst
 
-Originally from Canada, I now live in Brisbane with my wife and two dogs.
-
 Most recently, I worked as an Information Architect at Rackspace on the
 Rackspace Private Cloud (RPC) product. In addition to documentation duties I
 built our internal publishing solution and developed several enhancements for
@@ -38,10 +36,11 @@ management platform that integrates with a range of cloud technologies such as
 OpenStack, Amazon EC2, Red Hat Enterprise Virtualization, and VMware vSphere.
 
 Learning about new technology and sharing that knowledge with others is the
-highlight of my job, and I love the comradery of the open source community. I
-run the Brisbane OpenStack meetup and I have run several workshops on open
-source software for school-age girls. More details of my
-community activities can be found on the :ref:`community` page.
+highlight of my job, and I love the camaraderie of the open source community. I
+run the Brisbane OpenStack meetup and workshops on open source software for
+school-age girls. More details of my community activities can be found on the
+:ref:`community` page.
 
-When I’m not writing, I spend my time cycling, reading, and playing board
+Originally from Canada, I now live in Brisbane with my wife and two dogs. When
+I’m not writing, I spend my time cycling, reading, and playing board
 games.

@@ -103,6 +103,7 @@ Magee
 Mahoney
 Masayuki
 Medeiros
+meetup
 meetups
 metadata
 microinteractions
