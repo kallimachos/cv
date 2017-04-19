@@ -5,7 +5,9 @@ Employment
 **20 Apr 2015 – ongoing: Information Architect** |br|
 Rackspace Inc
 
-   -  Senior Technical Writer working on Rackspace Private Cloud and OpenStack
+   -  Information Architect for Rackspace Private Cloud
+   -  OpenStack documentation core contributor
+   -  OpenStack documentation tools team lead
 
 **30 Jan 2012 – 17 Apr 2015: Content Author II** |br|
 Red Hat Asia-Pacific Pty Ltd
@@ -18,8 +20,8 @@ Red Hat Asia-Pacific Pty Ltd
       Git version control, PressGang CCMS, and DocBook XML
    -  Developed excellent knowledge of Red Hat Enterprise Linux, cloud
       computing solutions, and technical writing standards
-   -  Won Society for Technical Communication Merit Award for OpenShift
-      Enterprise Administration Guide
+   -  Won Society for Technical Communication Merit Award for *OpenShift
+      Enterprise Administration Guide*
 
 **2011: Policy Officer (Volunteer Position)** |br|
 English-Speaking Union Queensland

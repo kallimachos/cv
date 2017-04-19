@@ -86,6 +86,8 @@ internet
 iOS
 Jacinta
 JBoss
+Jira
+jQuery
 kallimachos
 kerneldoc
 kerning

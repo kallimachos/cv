@@ -31,9 +31,10 @@ these products and regular cross-team collaboration.
 
 Learning about new technology and sharing that knowledge with others is the
 highlight of my job, so it is no surprise that I am involved in several
-community efforts. I am an OpenStack Active Technical Contributor, and I have
-run several workshops on open source software for school-age girls. More
-details of my community activities can be found on the :ref:`community` page.
+community efforts. I am a core contributor to the OpenStack Documentation
+project, and I have run several workshops on open source software for
+school-age girls. More details of my community activities can be found on the
+:ref:`community` page.
 
 When I’m not learning or writing, I spend my time cycling, reading, and
 grooming my beard.
