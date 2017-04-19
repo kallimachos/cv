@@ -1,14 +1,6 @@
 bashate
 doc8
-flake8
-isort
-pep8-naming
-pep257
 pyenchant
-pytest
-pytest-cov
-sphinx
+sphinx>=1.4.1
 sphinxcontrib-spelling
-sphinx-prompt
-sphinx_rtd_theme
-sphinx-testing
+sphinx_rtd_theme>=0.1.9
