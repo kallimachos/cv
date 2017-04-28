@@ -2,7 +2,7 @@
 Employment
 ==========
 
-**20 Apr 2015 – ongoing: Information Architect** |br|
+**20 Apr 2015 – 28 Apr 2017: Information Architect** |br|
 Rackspace Inc
 
    -  Rackspace Private Cloud documentation suite content creation and
