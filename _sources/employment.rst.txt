@@ -2,8 +2,11 @@
 Employment
 ==========
 
+**15 May 2017 - ongoing: Technical Services Knowledge Engineer** |br|
+MongoDB Australia Pty Ltd
+
 **20 Apr 2015 – 28 Apr 2017: Information Architect** |br|
-Rackspace Inc
+Rackspace Hosting Australia Pty Ltd
 
    -  Rackspace Private Cloud documentation suite content creation and
       architecture
