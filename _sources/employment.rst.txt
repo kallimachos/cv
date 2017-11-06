@@ -5,6 +5,11 @@ Employment
 **15 May 2017 - ongoing: Technical Services Knowledge Engineer** |br|
 MongoDB Australia Pty Ltd
 
+   -  write, edit, and curate Knowledge Base articles for internal and external
+      users
+   -  improve searchability and site presentation
+   -  build and maintain tools for testing and publishing
+
 **20 Apr 2015 – 28 Apr 2017: Information Architect** |br|
 Rackspace Hosting Australia Pty Ltd
 
