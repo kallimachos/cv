@@ -32,8 +32,9 @@ highlight of my job, and I love the camaraderie of the open source community. I
 run the Brisbane OpenStack meetup and organized the documentation miniconf at
 linux.conf.au 2017.
 
-Originally from Canada, I now live in Brisbane with my wife and two dogs. When
-I’m not writing, I spend my time cycling, reading, and playing board games.
+Originally from Canada, I now live in Brisbane with my wife, son, and two
+dogs. When I’m not writing, I spend my time cycling, reading, and playing
+board games.
 
 .. toctree::
    :maxdepth: 1
