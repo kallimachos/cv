@@ -25,13 +25,14 @@ Languages:
    HTML, jQuery
 
 Tools:
-   Git, Gerrit, GitHub, SVN, Trello, Rally, Jira, Bugzilla, Launchpad, TravisCI
+   Git, Gerrit, GitHub, SVN, Trello, Rally, Jira, Bugzilla, Launchpad,
+   TravisCI, Salesforce, Hugo, MongoDB, Sphinx
 
 Methodologies:
    Agile, Waterfall
 
 Software:
-   Microsoft Office Suite, Libre Office Suite, Komodo, Sphinx
+   Microsoft Office Suite, Libre Office Suite, VS Code, Komodo
 
 Systems:
    Linux, Microsoft Windows, Mac OSX

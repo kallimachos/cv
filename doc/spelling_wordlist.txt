@@ -173,6 +173,7 @@ scalable
 Scheibner
 sdist
 Searls
+searchability
 sharding
 Sim
 Skulpt
